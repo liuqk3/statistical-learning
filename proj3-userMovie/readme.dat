@@ -1,0 +1,20 @@
+
+Created on Jan. 2018
+@author: Qiankun Liu
+
+These codes were written in PyCharm 2017.3.3 using Python 3.6
+
+This project is writen for course Statiscal Leanrning opened in USTC by Dong Liu.
+
+There are three .py files in this project
+1. 'util.py' contains some functions we defined
+2. 'task1_naive_bayes.py' can predict the gender and age of users according to their
+    movie ratings using cross validation. For each fold, error rates of prediction
+    of gender and age are calculated, and the runtime of training and test are also
+    obtained. Both error rate and runtime are saved in the directory '.\cache\'.
+3. 'show_results.py' can visualize the results.
+
+You can use this project as follows:
+1. run 'task1_naive_bayes.py' first to obtain required results, and
+2. run 'show_results.py'
+   to show results.

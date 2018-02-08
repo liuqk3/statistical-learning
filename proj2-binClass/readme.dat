@@ -1,0 +1,22 @@
+
+Created on Jan. 2018
+@author: Qiankun Liu
+
+These codes were writen in PyCharm 2016.3.2 using Python 3.6
+
+This project is writen for course Statiscal Leanrning opened in USTC by Dong Liu.
+
+There are four .py files in this project
+1. 'util.py' contains some functions we defined
+2. 'linear_regression.py' can perform linear classification using:
+    a. ridge regression
+    b. Lasso regression
+    c. Fisher's LDA
+3. 'logistic_regression.py' can perform linear classification, and its solution
+    can be obtained using:
+    a. maximum likelihood
+    b. Newton-Raphson
+4. 'multi_class_classification.py' perform multi-class classification
+
+Run the corresponding files according to what you want. And some slight and easy
+    changes need to be made if you want to show the results presented in the report.

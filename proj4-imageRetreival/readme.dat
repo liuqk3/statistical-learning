@@ -1,0 +1,16 @@
+
+Created on Jan. 2018
+@author: Qiankun Liu
+
+These codes were written in PyCharm 2017.3.3 using Python 2.7
+
+This project is written for course Statiscal Leanrning opened in USTC by Dong Liu.
+
+There are three .py files in this project
+1. 'util.py' contains some functions we defined
+2. 'project4.py' can extract deep features from the data and perform image retrieval
+3. 'show_reslts.py' can visualize the results
+
+You can use this project as follows:
+1. run 'project4.py' first to obtain required results, and
+2. run 'show_results.py' to show the results

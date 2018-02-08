@@ -1,0 +1,17 @@
+
+Created on Jan. 2018
+@author: Qiankun Liu
+
+These codes were writen in PyCharm 2016.3.2 using Python 2.7
+
+This project is writen for course Statiscal Leanrning opened in USTC by Dong Liu.
+
+There are two .py files in this project
+1. 'util.py' contains some functions we defined
+2. 'knn.py' can perform classification. And some dimensionality reduction method
+    are ued in this file, such as：
+    a. PCA
+    b. t-SNE
+
+Run 'knn.py' to show the results. And some slight and easy changes need to be
+    made if you want to show the results presented in the report
